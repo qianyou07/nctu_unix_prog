@@ -1,0 +1,6 @@
+load ./hello64
+vmmap
+start
+vmmap
+get rip
+run
